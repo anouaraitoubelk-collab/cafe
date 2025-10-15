@@ -43,7 +43,7 @@
     }
     .message {
       margin-top: 15px;
-      color: green;
+      color: rgb(100, 0, 128);
       font-weight: bold;
     }
   </style>
